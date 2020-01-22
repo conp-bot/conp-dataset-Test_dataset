@@ -2,4 +2,6 @@
 	"zenodo": {
 		"concept_doi": "3611927",
 		"version": "3255"
+	},
+	"title": "Test_dataset"
 }
