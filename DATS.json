@@ -1,3 +1,7 @@
 {
-	"Field": "Test"
+    "Field": "Test",
+    "zenodo": {
+        "concept_doi": "3611927",
+        "version": "3625166"
+    }
 }
